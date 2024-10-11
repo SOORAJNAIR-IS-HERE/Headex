@@ -17,3 +17,21 @@ To run Headex, you need to have Python 3 installed. You can clone the repository
 git clone https://github.com/yourusername/Headex.git
 cd Headex
 pip install -r requirements.txt
+```
+## Usage
+**To scan a single URL:**
+```python
+python headex.py -u http://example.com
+```
+**To scan a Multiple URL:**
+```python
+python headex.py -u http://example.com http://example2.com
+```
+**To scan URLs from a file:**
+```python
+python headex.py -f urls.txt
+```
+**To save output to a file:**
+```python
+python headex.py -u http://example.com -o output.txt
+```
