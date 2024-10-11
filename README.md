@@ -1,4 +1,12 @@
-# Headex
+![Headex Logo](./Logo.png)
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Tested On](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20OSX%20%7C%20Windows%20%7C%20)
+![Docker Build](https://img.shields.io/badge/docker-build-blue)
+![Automated](https://img.shields.io/badge/automated-yes-blue)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
 
 **Headex** is a Python-based tool designed to scan and analyze HTTP headers of websites. It helps web developers and security analysts check for essential security headers and identify potential misconfigurations that could leave websites vulnerable.
 
