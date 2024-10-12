@@ -1,10 +1,14 @@
-![Headex Logo](./Logo.png)
+<p align="center">
+  <img src="./Logo.png" alt="Headex Logo" width="600"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Tested On](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20OSX%20%7C%20Windows%20%7C%20)
-![Docker Build](https://img.shields.io/badge/docker-build-blue)
-![Automated](https://img.shields.io/badge/automated-yes-blue)
-![License](https://img.shields.io/badge/License-MIT-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Tested%20On-Windows%20%7C%20Linux-brightgreen" alt="Tested On">
+  <img src="https://img.shields.io/badge/docker-build-blue" alt="Docker Build">
+  <img src="https://img.shields.io/badge/automated-yes-blue" alt="Automated">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+</p>
 
 
 
