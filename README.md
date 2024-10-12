@@ -73,7 +73,7 @@ python headex.py -u http://example.com -o output.txt
 ## Output
 
 <p align="center">
-  <img src="./output.png" alt="Headex Logo" width="500"/>
+  <img src="./Output.png" alt="Headex Logo" width="500"/>
 </p>
 
 ## License
