@@ -27,7 +27,7 @@ To run Headex, you need to have Python 3 installed. You can clone the repository
 
 **Clone the Repository:**
 
-```bash
+```python
 git clone https://github.com/SOORAJNAIR-IS-HERE/Headex.git
 ```
 **Navigate to the Project Directory:**
