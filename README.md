@@ -4,8 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
-  <img src="https://img.shields.io/badge/Tested%20On-Windows%20%7C%20Linux-brightgreen" alt="Tested On">
-  <img src="https://img.shields.io/badge/docker-build-blue" alt="Docker Build">
+  <img src="https://img.shields.io/badge/Tested%20On-Linux-brightgreen" alt="Tested On">
   <img src="https://img.shields.io/badge/automated-yes-blue" alt="Automated">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
 </p>
@@ -35,7 +34,20 @@ git clone https://github.com/SOORAJNAIR-IS-HERE/Headex.git
 ```bash
 cd Headex
 ```
-**Install the Required Dependencies:**
+## Install the Required Dependencies:
+
+**Update the package list:**
+```python
+sudo apt update
+```
+**Install Python 3:**
+```python
+sudo apt install python3
+```
+**Verify the installation:**
+```python
+python3 --version
+```
 
 ## Usage
 **To scan a single URL:**
@@ -54,7 +66,11 @@ python headex.py -f urls.txt
 ```python
 python headex.py -u http://example.com -o output.txt
 ```
-**Output**
+## Output
+
+<p align="center">
+  <img src="./output.png" alt="Headex Logo" width="400"/>
+</p>
 
 ## License
 
