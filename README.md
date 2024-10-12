@@ -37,7 +37,7 @@ cd Headex
 ```
 **Install the Required Dependencies:**
 
-```bash
+```python
 pip install -r requirements.txt
 ```
 
