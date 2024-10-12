@@ -7,9 +7,13 @@
   <img src="https://img.shields.io/badge/Tested%20On-Linux-brightgreen" alt="Tested On">
   <img src="https://img.shields.io/badge/automated-yes-blue" alt="Automated">
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+   <img src="https://img.shields.io/badge/Written In-Python-yellow" alt="License">
 </p>
 
-
+<p align="center">
+ <img src="https://img.shields.io/badge/Author-SOORAJNAIR-darkred" alt="License">
+   <img src="https://img.shields.io/badge/Opensource-Yes-blue" alt="License">
+ </p>
 
 **Headex** is a Python-based tool designed to scan and analyze HTTP headers of websites. It helps web developers and security analysts check for essential security headers and identify potential misconfigurations that could leave websites vulnerable.
 
@@ -29,40 +33,40 @@ To run Headex, you need to have Python 3 installed. You can clone the repository
 ```python
 git clone https://github.com/SOORAJNAIR-IS-HERE/Headex.git
 ```
-**Navigate to the Project Directory:**
+**Navigate to the Project Directory**
 
-```bash
+```python
 cd Headex
 ```
-## Install the Required Dependencies:
+## Install the Required Dependencies
 
-**Update the package list:**
+**Update the package list**
 ```python
 sudo apt update
 ```
-**Install Python 3:**
+**Install Python 3**
 ```python
 sudo apt install python3
 ```
-**Verify the installation:**
+**Verify the installation**
 ```python
 python3 --version
 ```
 
 ## Usage
-**To scan a single URL:**
+**To scan a single URL**
 ```python
 python headex.py -u http://example.com
 ```
-**To scan a Multiple URL:**
+**To scan a Multiple URL**
 ```python
 python headex.py -u http://example.com http://example2.com
 ```
-**To scan URLs from a file:**
+**To scan URLs from a file**
 ```python
 python headex.py -f urls.txt
 ```
-**To save output to a file:**
+**To save output to a file**
 ```python
 python headex.py -u http://example.com -o output.txt
 ```
