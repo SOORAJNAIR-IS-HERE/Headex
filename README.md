@@ -24,7 +24,7 @@
 - Customizable user-agent and proxy support.
 - Option to save output to a file.
 
-## Installation
+## Installation on Linux
 
 To run Headex, you need to have Python 3 installed. You can clone the repository and install the required dependencies.
 
