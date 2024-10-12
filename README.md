@@ -25,11 +25,22 @@
 
 To run Headex, you need to have Python 3 installed. You can clone the repository and install the required dependencies.
 
+**Clone the Repository:**
+
 ```bash
 git clone https://github.com/yourusername/Headex.git
+```
+**Navigate to the Project Directory:**
+
+```bash
 cd Headex
+```
+**Install the Required Dependencies:**
+
+```bash
 pip install -r requirements.txt
 ```
+
 ## Usage
 **To scan a single URL:**
 ```python
