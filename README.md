@@ -37,10 +37,6 @@ cd Headex
 ```
 **Install the Required Dependencies:**
 
-```python
-pip install -r requirements.txt
-```
-
 ## Usage
 **To scan a single URL:**
 ```python
