@@ -58,6 +58,8 @@ python headex.py -f urls.txt
 ```python
 python headex.py -u http://example.com -o output.txt
 ```
+**Output**
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
