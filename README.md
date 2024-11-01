@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/Tested%20On-Linux-brightgreen" alt="Tested On">
-  <img src="https://img.shields.io/badge/automated-yes-blue" alt="Automated">
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+  <img src="https://img.shields.io/badge/automated-yes-cyan" alt="Automated">
+  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
    <img src="https://img.shields.io/badge/Written In-Python-yellow" alt="License">
 </p>
 
