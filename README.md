@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Headex.png" alt="Headex Logo" width="950"/>
+  <img src="./Headex.png" alt="Headex Logo" width="850"/>
 </p>
 
 <p align="center">
